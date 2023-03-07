@@ -10,6 +10,6 @@ $ poetry run flask run
 examples
 
 ```bash
-$http :5005  # fail
-$http :5005 message=="hello, world!" # sucess
+$ http :5005  # fail
+$ http :5005 message=="hello, world!" # sucess
 ```
